@@ -1,3 +1,5 @@
+Snake, water and gun game!
+
 """
 1 for snake
 -1 for water
