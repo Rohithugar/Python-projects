@@ -8,7 +8,7 @@ menu = {
 }
 
 print("Welcom to python restro")
-print("Pizza : Rs 180\n, Pasta : Rs 150\n, Burger : Rs 120\n, Salad : Rs 140\n, Coffee : Rs 100\n,Milk shake : Rs 120")
+print("Pizza : Rs 180\n, Pasta : Rs 150,\n Burger : Rs 120,\n Salad : Rs 140,\n Coffee : Rs 100,\n Milk shake : Rs 120")
 
 order_total = 0
 
