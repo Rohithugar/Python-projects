@@ -1,4 +1,3 @@
-
 import tkinter as tk
 from time import strftime
 
@@ -14,4 +13,5 @@ label = tk.Label(root, font=('calibri', 50, 'bold'), background='blue' , foregro
 label.pack(anchor='center')
 
 time()
+
 root.mainloop()
